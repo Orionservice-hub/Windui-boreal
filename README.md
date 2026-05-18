@@ -20,7 +20,7 @@ Full credit for the base framework, architecture, and core systems belongs to th
 ## Loader
 
 ```lua
-local WindUI =  loadstring(game:HttpGet("https://raw.githubusercontent.com/FayintExploit/Windui-boreal/refs/heads/main/WindUI%20boreal"))()
+local WindUI =  loadstring(game:HttpGet("https://raw.githubusercontent.com/Orionservice-hub/Windui-boreal/refs/heads/main/WindUI%20boreal"))()
 ```
 
 ## Base Setup
@@ -28,7 +28,7 @@ local WindUI =  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fayin
 All examples below assume this base setup:
 
 ```lua
-local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/FayintExploit/Windui-boreal/refs/heads/main/WindUI%20boreal"))()
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Orionservice-hub/Windui-boreal/refs/heads/main/WindUI%20boreal"))()
 
 local Window = WindUI:CreateWindow({
     Title = "WindUI Docs Demo",
